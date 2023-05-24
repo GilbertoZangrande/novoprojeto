@@ -1,0 +1,14 @@
+index.html
+<html>
+<head>
+    <title>Meu Projeto</title>
+</head>
+<body>
+ <h1>Meu Projeto</h1>
+ <h2>Primeiro Site</h2>
+ <p>Meu primeiro contato com informática foi em 1993, 30 anos depois estou aqui novameente aprendendo sobre... informática.</p>
+ <blockquote>Quando seu sobrinho é sua inspiração</blockquote>
+<h2>2023 ano de mudanças</h2>
+<p>Formatura em ciências da computação foi o re-começo... de um projeto iniciado em 1993.</p>
+</body>
+</html>
